@@ -1,4 +1,4 @@
-# Step-by-step Faces in the wild dataset computing using VggFace for beginners [STILL IN PROGRESS]
+# Step-by-step Faces in the wild dataset computing using VggFace for beginners
 Almost everything contained in the notebook comes from adityajn's kernel on Kaggle.
 
 Link of the original kernel: https://www.kaggle.com/adityajn105/getting-started-with-vggface-0-787-lb
